@@ -49,7 +49,7 @@ In this part we will use :
 - hypothesis testing
 to answer the above questions.
 ### What studio have the greatest success for foreign gross?
-![Alt text](the images/first_image.png)
+![Alt text](https://github.com/Haender-Michael/Movie_market_evaluation/blob/4efe08b0d387975c4f37168c05947031ea0b09d8/the%20images/first_image.png)
 ### How does budget affects revenue ?
 ![Alt text](premium_photo-1710409625244-e9ed7e98f67b.jpeg)
 ### Analysis
