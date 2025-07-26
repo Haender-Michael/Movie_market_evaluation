@@ -67,7 +67,7 @@ That means **budget matters** — but it's **not everything**. The remaining var
 ### what movie genres perform the best at the box office ?
 ![Alt text](https://github.com/Haender-Michael/Movie_market_evaluation/blob/d53af21e6477859348cd70a4d9c6187a8b898ac1/the%20images/fourth_image.png)
 ### Does using popular actors increase movie's performance?
-![Alt text](https://github.com/Haender-Michael/Movie_market_evaluation/blob/d53af21e6477859348cd70a4d9c6187a8b898ac1/the%20images/fourth_image.png)
+![Alt text](https://github.com/Haender-Michael/Movie_market_evaluation/blob/3a182b1e915fa70604fe0330ce28f681bda9f45c/the%20images/fifth_image.png)
 ### Hypothesis Test Plan: Actor Popularity vs Movie Ratings
 To evaluate whether casting a popular actor increases a movie’s average rating, we will begin by identifying a list of well-known actors from an external source and verifying their presence in our database. For this, we will use a list of [the top 100 most popular actors from IMDB](https://www.imdb.com/fr/list/ls052283250/?view=compact&sort=list_order%2Casc).
 Next, we will create a "popular actor" sample group by isolating all the rated movies these actors have appeared in. We will then create a comparison group by randomly selecting movies featuring other actors.
