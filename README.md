@@ -34,7 +34,7 @@ This section creates the framework for the upcoming analysis by defining the bus
 The company is launching a new movie studio and needs information relative to creating movies
 The goal is to draw meaningful information, identify patterns or trends, and provide findings for decision making.
 The findings will be presented as actionable recommendations to the head of the new studio.
-key questions
+### key questions: 
 - what studio have the greatest success for foreign gross? ?
 - How does budget affects revenue ?
 - what movie genres perform the best at the box office ?
