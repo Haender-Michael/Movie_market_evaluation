@@ -148,5 +148,6 @@ These recommendations will be of great help to guide the new movie studio toward
 - Email: michaelhaenderjeanlouis@gmail.com
 - Phone Number: +509 41 75 0264
 - LinkedIn: https://www.linkedin.com/in/michael-haender-jean-louis-4b7320316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- For further inquiries, feedback, or collaboration on this analysis, feel free to reach out. I welcome discussions and any contract to work with the head of the company's new movie team.
+
+For further inquiries, feedback, or collaboration on this analysis, feel free to reach out. I welcome discussions and any contract to work with the head of the company's new movie team.
 
